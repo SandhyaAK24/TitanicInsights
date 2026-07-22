@@ -1,23 +1,22 @@
 # TitanicInsights 🚢
-### Exploratory Data Analysis & Data Cleaning — Titanic Dataset | Prodigy InfoTech Data Science Internship (Task 2)
+Exploratory Data Analysis & Data Cleaning — Titanic Dataset | Prodigy InfoTech Data Science Internship (Task 2)
 
 This repository contains **Task 2** of my **Prodigy InfoTech Data Science Internship**.
 
-## 📌 Task Description
+📌 Task Description
 Perform data cleaning and exploratory data analysis (EDA) on a dataset of your choice, such as the Titanic dataset from Kaggle. Explore the relationships between variables and identify patterns and trends.
 
-## 🗂 Dataset
+🗂 Dataset
 For this task, the **Titanic dataset from Kaggle** was used: [https://www.kaggle.com/c/titanic/data](https://www.kaggle.com/c/titanic/data)
 
-*(If you use another dataset, change the link above.)*
 
-## ⚙️ Steps Performed
+⚙️ Steps Performed
 - Imported and cleaned the dataset (handled missing values, encoded categorical variables).
 - Generated descriptive statistics.
 - Plotted distributions, correlations, and relationships between variables.
 - Identified key patterns and trends.
 
-## 🚀 How to Run Locally
+🚀 How to Run Locally
 
 Clone the repository:
 ```bash
@@ -35,13 +34,13 @@ Run the script:
 python task2.py
 ```
 
-## 🛠 Tech Stack
+🛠 Tech Stack
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
 
-## 📈 Sample Output
+📈 Sample Output
 
 **Survival Rate by Gender**
 
@@ -55,7 +54,7 @@ python task2.py
 
 ![Survival Rate by Passenger Class](survival_by_class.png)
 
-## 🙌 Acknowledgements
+🙌 Acknowledgements
 This project was completed as part of the **Prodigy InfoTech Data Science Internship** program.
 
 ---
